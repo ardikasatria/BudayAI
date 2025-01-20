@@ -1,2 +1,4 @@
 # BudayAI
 WebApp berbasis GenerativeAI
+
+BudayAI adalah sebuah platform berbasis teknologi generatif yang dirancang untuk mendukung pelestarian dan pengembangan budaya lokal melalui integrasi teknologi modern. Dibangun menggunakan arsitektur **MERN Stack**, **Vertex AI Generative AI**, dan **Conversational Agent Dialogflow CX**, BudayAI memungkinkan pengguna untuk mengakses konten interaktif seperti materi pembelajaran bahasa daerah, dialog budaya, dan konten kreatif lainnya. Platform ini menggabungkan kekuatan Generative AI untuk menciptakan pengalaman yang personal, adaptif, dan mendalam dalam mendukung konektivitas budaya, kreativitas, dan keberagaman (3K). Dengan pendekatan berbasis open source, BudayAI bertujuan menjadi ekosistem inovatif untuk melestarikan warisan budaya melalui kolaborasi global.
