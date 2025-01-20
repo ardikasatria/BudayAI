@@ -1,0 +1,2 @@
+# BudayAI
+WebApp berbasis GenerativeAI
